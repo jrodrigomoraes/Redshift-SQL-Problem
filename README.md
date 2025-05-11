@@ -35,11 +35,12 @@ O projeto aborda análises e dashboards interativos, com insights baseados em da
 ```
 ├── datasets/ # Arquivos de dados brutos ou processados
 ├── project/ # Documentação e lógica da solução
-├── sqlcode/ # Códigos SQL utilizados
+├── sqlcode/ # Códigos SQL utilizados (Faça o seu arquivo copy.sql com as credenciais AWS)
 └── README.md # Descrição do projeto
 ```
 
-## Como Rodar
+## OBS
+Para mais informações sobre como configurar as credenciais AWS de maneira segura, consulte a [documentação oficial da AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_credentials.html).
 
 ## Como Rodar
 
